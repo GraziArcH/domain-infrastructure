@@ -1,0 +1,7 @@
+export * from './database/iagent-type-repository'
+export * from './database/iuser-type-repository'
+export * from './database/icompany-repository'
+export * from './database/iuser-email-repository'
+export * from './database/iuser-phone-repository'
+export * from './database/iuser-repository'
+export * from './database/iinvite-repository'
